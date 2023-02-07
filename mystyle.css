@@ -1,0 +1,84 @@
+body > * {
+    max-width: 666px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mailto-link {
+    position: relative;
+    padding: 8px 0;
+}
+
+.mailto-message {
+    top: 1px;
+    left: 50%;
+    margin-bottom: -5px;
+    transform: translate(-50%, -100%);
+    position: absolute;
+    display: none;
+    width: auto;
+    white-space: nowrap;
+    font-size: 12px;
+    background-color: black;
+    color: white;
+    padding: 2px 6px;
+    border-radius: 2px;
+}
+
+before {
+    top: 100%;
+    left: 50%;
+    border: solid transparent;
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+    border-color: rgba(0, 0, 0, 0);
+    border-top-color: #000000;
+    border-width: 4px;
+    margin-left: -4px;
+}
+
+.mailto-link:hover .mailto-message,
+.mailto-link:focus .mailto-message,
+.mailto-link:focus-within .mailto-message {
+    display: block;
+}
+
+body {
+    padding: 3em calc((100% - 75vw) / 2);
+    line-height: 1.5;
+    background-color: papayawhip;
+    text-align: center;
+}
+
+h2 {
+    font-weight: 400;
+    margin-top: 0;
+}
+
+code {
+    background-color: #ff00f23b;
+    padding: 3px 6px;
+}
+
+input {
+    padding: 0.6em 1.2em;
+    border: 0;
+    border-radius: 4px;
+    font-size: 1.3em;
+    text-align: center;
+    border: 1px solid rgba(0, 0, 0, 0.25);
+}
+
+focus {
+    box-shadow: 0 0 3px 0 #b17b22;
+}
+
+hr {
+    margin: 2rem 0;
+    border: 0;
+    height: 1px;
+    background-color: black;
+    opacity: 0.1;
+}
