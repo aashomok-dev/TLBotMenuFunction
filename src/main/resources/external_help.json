@@ -1,0 +1,180 @@
+{
+  "external_helpers": [
+    {
+      "type": "door_locks_help",
+      "contacts": [
+        {
+          "name": "Людвиг",
+          "phone": "+34606329725",
+          "description": ""
+        },
+        {
+          "name": "Іля",
+          "phone": "+34688790760",
+          "description": ""
+        },
+        {
+          "name": "Ferreteria Perelló",
+          "phone": "+34965705088",
+          "description": "https://maps.app.goo.gl/2A7wDKGzHyPWWmkd9"
+        }
+      ]
+    },
+    {
+      "type": "electricity_help",
+      "contacts": [
+        {
+          "name": "Ігор",
+          "phone": "+34617059648",
+          "description": ""
+        },
+        {
+          "name": "Марян",
+          "phone": "+34643144609",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "plumber_help",
+      "contacts": [
+        {
+          "name": "Ігор",
+          "phone": "+34617059648",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "taxi_help",
+      "contacts": [
+        {
+          "name": "Nordisk Taxi",
+          "phone": "+34622157212",
+          "description": "4,5 (716 відгуків)"
+        },
+        {
+          "name": "MaxiTaxi",
+          "phone": "+34627464577",
+          "description": "4,6 (75 відгуків)"
+        },
+        {
+          "name": "Сергій",
+          "phone": "+34605541214",
+          "description": ""
+        },
+        {
+          "name": "Олександр",
+          "phone": "+34623531762",
+          "description": ""
+        },
+        {
+          "name": "Руслан",
+          "phone": "+380674223355",
+          "description": ""
+        },
+        {
+          "name": "Анита",
+          "phone": "+34643638842",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "translator_help",
+      "contacts": [
+        {
+          "name": "Ала",
+          "phone": "+34611327292",
+          "description": ""
+        },
+        {
+          "name": "Наталія",
+          "phone": "+34675226449",
+          "description": "допомагає в медичних установах"
+        },
+        {
+          "name": "Альбіна",
+          "phone": "+34654607760",
+
+          "description": "допомагає в медичних установах"
+        },
+        {
+          "name": "Олена",
+          "phone": "+34615212582",
+          "description": ""
+        },
+        {
+          "name": "Софія",
+          "phone": "+34653893425",
+          "description": "допомагає і в державних установах"
+        },
+        {
+          "name": "Ольга",
+          "phone": "+34622106645",
+          "description": "з машиною, перекладає в будь-яких установах"
+        },
+        {
+          "name": "Олена",
+          "phone": "+34674424217",
+          "description": ""
+        },
+        {
+          "name": "Українсько-іспанський перекладач по телефону",
+          "phone": "+34936940515",
+          "description": "з 9 до 17, безкоштовно"
+        }
+      ]
+    },
+    {
+      "type": "transfer_help",
+      "contacts": [
+        {
+          "name": "Зоряна",
+          "phone": "+346652215573",
+          "description": "https://t.me/spaintrans"
+        },
+        {
+          "name": "Тарас",
+          "phone": "+380977858287",
+          "description": ""
+        },
+        {
+          "name": "Семен",
+          "phone": "+34622257553",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "estate_helper",
+      "contacts": [
+        {
+          "name": "Олексій",
+          "phone": "+34661592594",
+          "description": "Менеджер компанії Алегрія"
+        }
+      ]
+    },
+    {
+      "type": "legal_help",
+      "contacts": [
+        {
+          "name": "Дмитро",
+          "phone": "+34607430439",
+          "description": "питання нерухомості, розлучення інше"
+        },
+        {
+          "name": "Елена",
+          "phone": "+34642679995",
+          "description": "Хестор"
+        },
+        {
+          "name": "Віталій",
+          "phone": "+34952585449",
+          "description": "юридична допомога адвоката у справах спадщини (www.delgadogarrucho.com)"
+        }
+      ]
+    }
+  ]
+}
